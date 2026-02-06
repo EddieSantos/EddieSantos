@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eddie Santos - Ednilson Santos
+# Eddie Santos - Ednilson Santos
 
 **`Estudante Desenvolvedor`**
 
