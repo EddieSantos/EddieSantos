@@ -1,3 +1,5 @@
+# Hello World!🤓
+
 <img 
     align="center" 
     alt="Slogan Bio"
@@ -45,7 +47,7 @@ Me chamo Ednilson, tenho 43 anos e sou natural do Contagem. Atualmente, estou cu
 
 ---
 
-### 🤖 Linguagens e Tecnologias (Pretensão de aprender ou em andamento) 
+### 🤖 Linguagens e Tecnologias que estou estudando e pretendo aprender 
 
 <img 
     align="left" 
