@@ -21,7 +21,7 @@ Este GitHub reúne meus projetos de estudo, exercícios da graduação e aplica�
 Aberto a conexões, trocas de conhecimento e oportunidades nas áreas de desenvolvimento de software, tecnologia aplicada e automação e também na área elétrica.
 
 <p align="left">
-    <a href="(https://www.instagram.com/eddie.santos">
+    <a href="(https://www.instagram.com/eddie.santos" rel="nofollow">
         <img 
             alt="Meu Perfil no Instagram" 
             title="Meu Perfil no Instagram"            
@@ -29,8 +29,8 @@ Aberto a conexões, trocas de conhecimento e oportunidades nas áreas de desenvo
         />
     </a>
 
-<a href="https://www.youtube.com/@patyfreitasbr" rel="nofollow"><img src="https://camo.githubusercontent.com/6690f404cb91efe3927127c7dae40ed4f401c7d6fbe3ad3635b7ad9ba0b370c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;">
- </a>
+<a href="https://www.instagram.com/patyfreitasbr" rel="nofollow"><img src="https://camo.githubusercontent.com/be49b008b2b350f82b104c71c6c4168ab1f09448919a354bdc47aea0cbf042a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
+  </a>
     
     <a href="https://www.youtube.com/@EddieSantos">
         <img 
