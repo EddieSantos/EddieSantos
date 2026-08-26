@@ -37,7 +37,7 @@ Me chamo Ednilson, tenho 42 anos e sou natural do Contagem. Atualmente, estou cu
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias (Pretensão de aprender ou em andamento) 
 
 <img 
     align="left" 
