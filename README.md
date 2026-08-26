@@ -1,8 +1,16 @@
 # Eddie Santos - Ednilson Santos
+<img 
+    align="center" 
+    alt="Slogan Bio"
+    title="slogan" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://i.postimg.cc/FRtfP8HS/capa-linkedin.jpg" 
+/>
 
 **`Estudante Desenvolvedor`**
 
-Me chamo Ednilson, tenho 42 anos e sou natural do Contagem. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Sou apaixonado por tecnologia e pretendo compartilhar meu conhecimento através do meu canal no YouTube "[Eddie Santos](https://www.youtube.com/@EddieSantos)", onde ensinarei a criar projetos web.
+Me chamo Ednilson, tenho 43 anos e sou natural do Contagem. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Sou apaixonado por tecnologia e pretendo compartilhar meu conhecimento através do meu canal no YouTube "[Eddie Santos](https://www.youtube.com/@EddieSantos)", onde ensinarei a criar projetos web.
 
 <p align="left">
     <a href="https://www.youtube.com/@EddieSantos?sub_confirmation=1">
