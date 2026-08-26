@@ -3,7 +3,7 @@
     align="center" 
     alt="Slogan Bio"
     title="slogan" 
-    width="30px" 
+    width="1584px" 
     style="padding-right: 10px;" 
     src="https://i.postimg.cc/FRtfP8HS/capa-linkedin.jpg" 
 />
