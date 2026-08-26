@@ -1,4 +1,3 @@
-# Eddie Santos - Ednilson Santos
 <img 
     align="center" 
     alt="Slogan Bio"
@@ -7,6 +6,7 @@
     style="padding-right: 10px;" 
     src="https://i.postimg.cc/FRtfP8HS/capa-linkedin.jpg" 
 />
+# Eddie Santos - Ednilson Santos
 
 **`Estudante Desenvolvedor`**
 
