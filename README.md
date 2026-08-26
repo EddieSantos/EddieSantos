@@ -21,7 +21,7 @@ Este GitHub reúne meus projetos de estudo, exercícios da graduação e aplica�
 Aberto a conexões, trocas de conhecimento e oportunidades nas áreas de desenvolvimento de software, tecnologia aplicada e automação e também na área elétrica.
 
 <p align="left">
-    <a href="(https://www.instagram.com/eddie.santos" rel="nofollo w">
+    <a href="(https://www.instagram.com/eddie.santos" rel="nofollo w"
         <img 
             alt="Meu Perfil no Instagram" 
             title="Meu Perfil no Instagram" 
