@@ -21,12 +21,11 @@ Este GitHub reúne meus projetos de estudo, exercícios da graduação e aplica�
 Aberto a conexões, trocas de conhecimento e oportunidades nas áreas de desenvolvimento de software, tecnologia aplicada e automação e também na área elétrica.
 
 <p align="left">
-    <a href="https://www.youtube.com/@EddieSantos?sub_confirmation=1">
+    <a href="(https://www.instagram.com/eddie.santos" rel="nofollo w">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+            alt="Meu Perfil no Instagram" 
+            title="Meu Perfil no Instagram" 
+        src="https://camo.githubusercontent.com/be49b008b2b350f82b104c71c6c4168ab1f09448919a354bdc47aea0cbf042a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
     </a>
     <a href="https://www.youtube.com/@EddieSantos">
         <img 
