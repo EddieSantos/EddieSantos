@@ -10,9 +10,15 @@
 />
 # Eddie Santos - Ednilson Santos
 
-**`Estudante Desenvolvedor`**
+**`Eletricista - Estudante Desenvolvedor`**
 
-Me chamo Ednilson, tenho 43 anos e sou natural do Contagem. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Sou apaixonado por tecnologia e pretendo estudar e continuar aprendendo cada vez mais nesse seguimento.
+Profissional em transição e integração de carreiras, atuo como eletricista e atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Uno a experiência prática com sistemas elétricos e resolução de problemas reais no mundo físico ao desenvolvimento de software, automações e lógica de programação.
+
+Minha trajetória é movida pelo aprendizado contínuo na área de tecnologia. Busco constantemente expandir meus conhecimentos para aplicar soluções técnicas que integrem hardware, elétrica e software — enxergando na união do setor elétrico com a TI uma grande oportunidade de inovação e eficiência.
+
+Este GitHub reúne meus projetos de estudo, exercícios da graduação e aplicações práticas em desenvolvimento, refletindo minha evolução constante em tecnologia.
+
+Aberto a conexões, trocas de conhecimento e oportunidades nas áreas de desenvolvimento de software, tecnologia aplicada e automação e também na área elétrica.
 
 <p align="left">
     <a href="https://www.youtube.com/@EddieSantos?sub_confirmation=1">
