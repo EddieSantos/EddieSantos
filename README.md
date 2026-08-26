@@ -10,7 +10,7 @@
 
 **`Estudante Desenvolvedor`**
 
-Me chamo Ednilson, tenho 43 anos e sou natural do Contagem. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Sou apaixonado por tecnologia e pretendo compartilhar meu conhecimento através do meu canal no YouTube "[Eddie Santos](https://www.youtube.com/@EddieSantos)", onde ensinarei a criar projetos web.
+Me chamo Ednilson, tenho 43 anos e sou natural do Contagem. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Sou apaixonado por tecnologia e pretendo estudar e continuar aprendendo cada vez mais nesse seguimento.
 
 <p align="left">
     <a href="https://www.youtube.com/@EddieSantos?sub_confirmation=1">
