@@ -20,7 +20,7 @@ Este GitHub reúne meus projetos de estudo, exercícios da graduação e aplica�
 
 Aberto a conexões, trocas de conhecimento e oportunidades nas áreas de desenvolvimento de software, tecnologia aplicada e automação e também na área elétrica.
 
-<p align="left">
+<p align="left">src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
     <a href="https://www.instagram.com/eddie.santos" rel="nofollow">
         <img 
             alt="Meu Perfil no Instagram" 
@@ -28,11 +28,11 @@ Aberto a conexões, trocas de conhecimento e oportunidades nas áreas de desenvo
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"
         />
     </a>   
-    <a href="https://www.youtube.com/@EddieSantos">
+    <a href="https://www.linkedin.com/in/ednilsongdossantos">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Meu Perfil no LinkedIn" 
+            title="Meu Perfil no LinkedIn" 
+            src="https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"
         />
     </a> 
     <a href="https://github.com/EddieSantos?tab=repositories&sort=stargazers">
